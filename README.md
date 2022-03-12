@@ -1,12 +1,10 @@
+# Quiz Web App
+   [Live demo](https://maviism.github.io/web-programming/)
+
 ## Author
 
  - Muadz Izhharul Haq
  - 201502208 - Bilgisayar Mühendisliği
-
-## About
-
-   ### Quiz Web App
-   [Live demo](https://maviism.github.io/web-programming/)
 
 ## Resources
 
